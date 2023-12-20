@@ -1,0 +1,54 @@
+.graph{
+    padding: 0;
+    padding-top: 55px;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1120px;
+    font-family:'Inter', sans-serif;
+    font-size: 12px;
+    color:#959494;
+}
+
+.months{
+    padding-left: 155px;
+    display: flex; 
+}
+
+.month{
+    margin: 0;
+    margin-right: 42px;
+}
+
+.month:last-child{
+    margin-right: 0;
+}
+
+.day{
+    margin: 0;
+    padding: 0;
+    background-color: #EDEDED;
+    width: 15px;
+    height: 15px;
+}
+
+.days{
+    display: flex;
+    gap: 2px;
+    flex-wrap: wrap;
+    width: 865px;
+    height: 117px;
+}
+
+.block{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.weekday{
+    margin: 0;
+    margin-bottom: 2px;
+    margin-right: 5px;
+    height: 15px;
+}
