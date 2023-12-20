@@ -24,21 +24,7 @@
     margin-right: 0;
 }
 
-.day{
-    margin: 0;
-    padding: 0;
-    background-color: #EDEDED;
-    width: 15px;
-    height: 15px;
-}
 
-.days{
-    display: flex;
-    gap: 2px;
-    flex-wrap: wrap;
-    width: 865px;
-    height: 117px;
-}
 
 .block{
     margin: 0;
